@@ -1,2 +1,2 @@
-# RCC
-Remote Control over a Computer
+# RCOC
+Remote Control Over a Computer
