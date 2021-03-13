@@ -9,3 +9,5 @@ cam.png
 config.py
 
 *.exe
+
+tmp.*
